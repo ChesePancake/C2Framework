@@ -32,7 +32,7 @@ To install these:
 pip install rsa PILLOW fastapi uvicorn pyttsx3 requests pynput
 ```
 I also used curses, which should be included in the python standard library.
-However, if you are using Windows, you need [windows-curses]{https://pypi.org/project/windows-curses/}.
+However, if you are using Windows, you need [windows-curses](https://pypi.org/project/windows-curses/).
 
 To install:
 ```shell
